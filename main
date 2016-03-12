@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: SocketServer
+Class-Path: json.jar mongo-2.9.3.jar

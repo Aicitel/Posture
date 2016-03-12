@@ -1,2 +1,2 @@
-# Psoture
+# Posture
 thanks to teammates
